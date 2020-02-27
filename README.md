@@ -1,0 +1,2 @@
+# ZPCallInitializeMethod
+本Demo主要介绍了initialize类方法在什么时候被调用、initialize类方法的调用原理，还重点介绍了initialize类方法的调用顺序以及initialize类方法与load类方法的区别。
